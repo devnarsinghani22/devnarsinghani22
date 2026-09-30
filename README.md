@@ -15,7 +15,7 @@ Creative strategist for honest food, Mumbai.
 
 - B.Com (Hons), Shri Ram College of Commerce (SRCC), University of Delhi
 - Sagar Public School, Bhopal
-- Cleared the NDA written exam
+- Cleared the NDA written exam and the SSB interview
 
 ## Writing
 
