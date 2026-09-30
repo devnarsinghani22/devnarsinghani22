@@ -6,7 +6,7 @@ Creative strategist for honest food, Mumbai.
 
 ## Work
 
-- Brand Marketing Manager, Troovy (kids' nutrition), 2026
+- Brand Marketing Manager, Troovy, 2026
 - Chief of Staff, Food Pharmer, and founding team at Only What's Needed (OWN), 2025 to 2026
 - Associate, Indus Insights, Jun 2024 to May 2025
 - Summer Trainee, Grant Thornton Bharat, Feb to Apr 2023. Worked on the NHAI team.
@@ -16,12 +16,17 @@ Creative strategist for honest food, Mumbai.
 
 - B.Com (Hons), Shri Ram College of Commerce (SRCC), University of Delhi
 - Sagar Public School, Bhopal
-- Cleared the NDA written exam and the SSB interview
+- Cleared the NDA (I) 2021 written exam, one of 8,207 out of 1,80,421 who sat it, and then the SSB interview. ([UPSC result list](https://www.upsc.gov.in/sites/default/files/WR-NDANA-I-2021-NameList-Engl-020721.pdf), [UPSC figures](https://www.upsc.gov.in/sites/default/files/72nd-AnnualReport-2021-22-ENGLISH-270423.pdf))
 
 ## Writing
 
 - [How to Read a Food Label in 10 Seconds](https://devnarsinghani22.github.io/writing/read-a-food-label-in-10-seconds/)
 - [Why I Sleep 8 Hours Every Night](https://devnarsinghani22.github.io/writing/why-i-sleep-8-hours/)
 - [The AI Marketing Stack I Built Without Being an Engineer](https://devnarsinghani22.github.io/writing/my-ai-marketing-stack/)
+
+## Guides and tools
+
+- [How to Read an Indian Food Label: A Plain Guide](https://devnarsinghani22.github.io/food-labels/)
+- [Label Checker](https://devnarsinghani22.github.io/tools/label-checker/)
 
 [Website](https://devnarsinghani22.github.io/) · [Writing](https://devnarsinghani22.github.io/writing/) · [LinkedIn](https://www.linkedin.com/in/devnarsinghani/)
