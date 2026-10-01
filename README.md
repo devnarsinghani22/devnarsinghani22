@@ -25,6 +25,7 @@ Creative strategist for honest food, Mumbai.
 
 ## Guides and tools
 
+- [India Label Index 2026](https://devnarsinghani22.github.io/india-label-index/)
 - [How to Read an Indian Food Label: A Plain Guide](https://devnarsinghani22.github.io/food-labels/)
 - [Label Checker](https://devnarsinghani22.github.io/tools/label-checker/)
 
