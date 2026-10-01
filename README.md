@@ -2,7 +2,7 @@
 
 I make honest food easy to choose, and I build my own AI to do it.
 
-Creative strategist for honest food, Mumbai.
+Health changemaker and operator for honest food, Mumbai.
 
 ## Work
 
