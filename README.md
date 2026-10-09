@@ -6,7 +6,7 @@ Health changemaker and operator for honest food, Mumbai.
 
 ## Work
 
-- Chief of Staff to Revant Himatsingka at Food Pharmer, and founding team at Only What's Needed (OWN), 2025 to 2026
+- Chief of Staff to Revant Himatsingka at Food Pharmer, and founding team at Only What's Needed (OWN), since 2025
 - Associate, Indus Insights, Jun 2024 to May 2025
 - Summer Trainee, Grant Thornton Bharat, Feb to Apr 2023. Worked on the NHAI team.
 - Founder's Office, Sploot, Nov 2022 to Mar 2023
