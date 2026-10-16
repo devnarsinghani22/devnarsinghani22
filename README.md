@@ -1,11 +1,12 @@
 # Dev Narsinghani
 
-I make honest food easy to choose, and I build my own AI to do it.
+Senior Manager, Creative & Content Strategy at Only What's Needed (OWN), Mumbai.
 
-Health changemaker and operator for honest food, Mumbai.
+I make honest food easy to choose, and I build my own AI to do it.
 
 ## Work
 
+- Senior Manager, Creative & Content Strategy, Only What's Needed (OWN)
 - Chief of Staff to Revant Himatsingka at Food Pharmer, and founding team at Only What's Needed (OWN), since 2025
 - Associate, Indus Insights, Jun 2024 to May 2025
 - Summer Trainee, Grant Thornton Bharat, Feb to Apr 2023. Worked on the NHAI team.
